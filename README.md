@@ -44,17 +44,3 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pela FIAP e pós-graduand
 - Arquitetura de Sistemas .NET (FIAP, conclusão prevista em dez/2026)
 - Kubernetes, CI/CD e DevSecOps
 
-## 📊 GitHub
-
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=PedroSvicero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSvicero&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
-
-</div>
