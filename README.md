@@ -1,4 +1,4 @@
-Olá, eu sou o Pedro Henrique 👋
+Olá, eu sou o Pedro Svicero 👋
 
 Analista de Segurança da Informação Jr | Desenvolvedor .NET Jr São Paulo, Brasil
 
