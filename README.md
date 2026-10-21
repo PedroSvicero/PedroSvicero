@@ -20,7 +20,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pela FIAP e pós-graduand
 
 <div align="center">
 
-![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,py,java,docker,kubernetes,rabbitmq,mongodb,redis,git,github,azure,aws,prometheus,grafana&perline=8)
+![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,docker,kubernetes,rabbitmq,mongodb,redis,git,github,azure,aws,prometheus,grafana&perline=8)
 
 </div>
 
